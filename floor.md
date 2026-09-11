@@ -1,6 +1,3 @@
-Here is the final, fully updated master plan with the spray foam dam method restored, along with all the tool additions (jigsaw, heavy-duty drill, masking tape) and layout strategies we discussed.
-
-```markdown
 # Floor Leveling
 
 ### Supplies to Buy
