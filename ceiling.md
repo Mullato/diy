@@ -1,13 +1,15 @@
 # Ceiling Tile Replacement
 
 ### Supplies to Buy
-* **x[Based on Sq Ft]**: [Armstrong Ceilings 12-in x 12-in Washable White Interlocking Ceiling Tiles](https://www.lowes.com)
-* **x3**: [Arrow 1/2-in Leg x 3/8-in Crown Galvanized Steel Staples (1250-Pack)](https://www.lowes.com)
-* **x1**: [Arrow T50 Heavy Duty Manual Staple Gun](https://www.menards.com/main/tools/hand-tools/staplers-staples/arrow-reg-t50-reg-heavy-duty-staple-gun/t50/p-1444423307527-c-9156.htm)
-* **x1**: [DeWalt 100-Pack Heavy Duty Utility Knife Blades](https://www.homedepot.com)
-* **x1**: [Mason Twine / Nylon Guide String](https://www.menards.com)
-* **x1**: [Husky 42-Gallon Contractor Trash Bags (50-Count)](https://www.homedepot.com)
-* **x1**: [Crescent 11-in Nail Puller/Pry Bar](https://www.lowes.com)
+* **x[Based on Sq Ft]**: [Armstrong Ceilings 12-in x 12-in Washable White Interlocking Ceiling Tiles]([https://www.lowes.com](https://www.menards.com/main/paint/ceilings/ceiling-tiles/armstrong-reg-ceilings-baltic-trade-12-x-12-white-textured-beveled-tongue-groove-ceiling-tile/1132g/p-1642874366088989-c-13612.htm)
+* **x3**: [Arrow 1/2-in Leg x 3/8-in Crown Galvanized Steel Staples (1250-Pack)](https://www.menards.com/main/tools/hand-tools/staplers-staples-rivet-tools/surebonder-reg-t50-reg-3-8-crown-x-1-2-leg-galvanized-heavy-duty-staples-1-250-count/55012/p-1444430631659-c-9164.htm)
+* **x1**: [Arrow T50 Heavy Duty Manual Staple Gun](https://www.menards.com/main/tools/hand-tools/staplers-staples-rivet-tools/arrow-trade-t50-heavy-duty-staple-gun/t50-4/p-1444424352421-c-9164.htm)
+* **x1**: [DeWalt 100-Pack Heavy Duty Utility Knife Blades](https://www.menards.com/main/tools/hand-tools/utility-knives/masterforce-reg-utility-knife-blades-100-pack/mf-35076/p-1642874354719616-c-1484756386273.htm)
+* **x1**: [Mason Twine / Nylon Guide String](https://www.menards.com/main/tools/automotive/towing-cargo-management/ropes-accessories/18-x-215-nylon-masons-line-orange/ms18215og/p-4495831475578830-c-12173.htm)
+* **x1**: [Husky 42-Gallon Contractor Trash Bags (50-Count)](https://www.menards.com/main/grocery-home/cleaners-household-essentials/household-essentials/trash-bags/iron-hold-reg-33-gallon-twist-tie-contractor-trash-bags-30-count/1372534/p-1444425135634-c-7131.htm)
+* **x1**: [Crescent 11-in Nail Puller/Pry Bar](https://www.menards.com/main/tools/hand-tools/wrecking-pry-bars/tool-shop-reg-15-flat-pry-bar/2434593/p-1444421174421-c-9170.htm)
+* **x1**: [Paint Project Respirator](https://www.menards.com/main/tools/workwear-safety-gear/respirators-dust-masks/3m-trade-paint-project-reusable-respirator-6211p1-c-m-ov-p95-medium/r6211/p-1444421720532-c-13847.htm)
+* **x1**: [Framing square](https://www.menards.com/main/tools/hand-tools/measuring-layout-tools/angle-finders-squares/swanson-reg-speed-reg-square-pro-7-aluminum-rafter-square/s0100-a8/p-1642874263287011-c-1549901401005.htm)
 * **x1 (Optional Backup)**: [1x3 Wood Board 8 ft.](https://www.menards.com) *(For sistering onto furring strips if string line drifts off existing wood)*
 * **x1 (Optional Backup)**: [Liquid Nails Paneling & Ceiling Tile Adhesive](https://www.lowes.com)
 
@@ -18,7 +20,6 @@
 * **x1**: Claw hammer
 * **x1**: Needle-nose pliers (for pulling stubborn staples)
 * **x1**: Tape measure
-* **x1**: Framing square (to ensure guide strings intersect at exactly 90 degrees)
 * **x1**: Sturdy utility knife
 * **x1**: Drywall T-square or heavy straight-edge
 * **x1**: Cordless drill & 2" wood screws (to sister extra wood strips if needed)
