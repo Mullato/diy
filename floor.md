@@ -10,12 +10,13 @@
 * **x2**: [Pregis Foam Sill Sealer 5-1/2" x 50'](https://www.menards.com/main/building-materials/insulation/insulation-accessories/pregis-foam-sill-sealers/4093767/p-1642874337154227-c-5776.htm)
 * **x2**: [GE Tub & Tile White Silicone Sealant - 10.1 oz.](https://www.menards.com/main/paint/caulks-sealants/silicone-caulk/ge-silicone-tub-tile-sealant-10-1-oz/2749484/p-1642874296852172-c-7935.htm)
 * **x2**: [GREAT STUFF™ Window & Door Expanding Spray Foam - 12 oz.](https://www.menards.com/main/paint/caulks-sealants/spray-foam-rubberized-sealant/great-stuff-trade-window-door-expanding-spray-foam-12-oz/11106971/p-1444435969730-c-7937.htm)
+* **x1**: [7-Gallon Plastic Mixing Bucket (Tile/Masonry Aisle)](https://www.menards.com)
 * **x1**: [Project Source 10-quart BPA-Free Plastic White Measure mixing bucket](https://www.lowes.com/pd/United-Solutions-10-Quart-Plastic-Paint-Bucket/5014929227)
 * **x2**: [CONDOR Professional 9" x 3/8" Microfiber Paint Roller Cover - 3 Pack](https://www.menards.com/main/paint/paint-sprayers-applicators/paint-roller-covers/condor-professional-9-x-3-8-microfiber-paint-roller-cover-3-pack/2013/p-1642874343687342-c-8115.htm)
 * **x1**: [Shutoff Valve (Sprayer might splash)](https://www.menards.com/main/outdoors/watering-irrigation/garden-hose-shut-off/master-garden-lever-hose-valve/7201/p-4480226686981273-c-13107.htm)
 * **x1**: [Bond 50' x 5/8" Medium-Duty Garden Hose](https://www.menards.com/main/outdoors/watering-irrigation/garden-hose/bond-50-x-5-8-medium-duty-garden-hose/70201/p-4658032013219841-c-13103.htm)
 * **x1**: [Rubber Washer Hose Repair - 10 Pack](https://www.menards.com/main/outdoors/watering-irrigation/hose-repair-mending/rubber-washer-hose-repair-10-pack/58090n/p-1642874263385677-c-8659.htm)
-* **x1**: [ ] (Rent 1/2" Heavy Duty Corded Mud-Mixing Drill)
+* **x1**: [ ] (Rent 1/2" Heavy Duty Corded Mud-Mixing Drill from Home Depot Mishawaka or Burns Rent-Alls)
 
 ### Supplies to Bring
 * **x4**: 5 gallon bucket
@@ -27,16 +28,18 @@
 * **x2**: Paint Roller Frame
 * **x2**: Paint tray
 * **x1**: Utility Knife
+* **x1**: Heavy Duty Duct Tape Roll
+
 
 ---
 
 ## Floor Leveling Execution Plan
 
-### 1. Seal the Perimeter Drainage System & Walls
-* **Attach Wall Expansion Foam:** Staple or tape the 5-1/2" foam sill sealer around the lower perimeter of all drywall surfaces. This gives the cement room to expand and prevents it from bonding to the walls.
-* **Vacuum the concrete:** Vacuum thoroughly along the baseboard drain channel.
-* **Build the Spray Foam Dam:** Draw a reference line exactly 1 inch in front of your plastic drain channel. Spray a continuous, 2-inch high bead of Great Stuff expanding foam directly onto the concrete along that line.
-* **Let the Dam Cure:** Allow the spray foam to sit for 1 to 2 hours until it expands and hardens into a rigid, sticky wall. This will flawlessly hold back the liquid cement.
+### 1. Seal and Protect Infrastructure
+* **Protect the Plumbing (Temporary):** Completely cover the drain grate with heavy-duty duct tape so no stray self-leveler can drop into your pipes.
+* **Seal the Drain Perimeter (Permanent):** Run a precise bead of **GE Silicone Sealant** directly into the hairline joint where the outside edge of the plastic drain meets the concrete subfloor. Smooth it flat with a gloved finger so it forms a permanent watertight gasket without creating a high bump.
+* **Attach Wall Expansion Foam:** Staple or tape the 5-1/2" foam sill sealer around the lower perimeter of all drywall surfaces to isolate the pour.
+* **Build the Spray Foam Dam (Temporary):** Measure 1 inch out from the plastic drainage channel and spray a continuous, 2-inch high bead of Great Stuff expanding foam along that line. Let it cure for 1–2 hours to form a rigid temporary block against fluid pressure.
 
 ### 2. Encapsulate the Cutback Adhesive
 * **Roll the primer:** Pour the MAPEI EcoPrim Grip into your paint tray. Using 3/8" microfiber rollers, roll an even coat over the entire floor directly over the black adhesive residue.
@@ -44,33 +47,35 @@
 * **Let it tack:** Wait 1 to 3 hours. The floor is ready when the primer feels rough, dry, and tacky to the touch (like liquid sandpaper).
 
 ### 3. Establish the Mixing Station
-* **Plumb the water:** Turn off the washing machine cold water valve, disconnect the washer hose, and thread on the garden hose with the shut-off valve attached. Turn the supply valve on and test for drips.
-* **Stage the equipment:** Plug in the rented 1/2" heavy-duty corded mixing drill. Stack all 10 bags of TEC EZ Level 323 adjacent to the mixing station and slice open the first 3 bags.
-* **Measure water:** Use the 10-quart mixing bucket to measure exactly **5.0 to 5.25 quarts (160–168 oz)** of cold water into your first 5-gallon bucket.
+* **Plumb the water:** Turn off the washing machine cold water valve, disconnect the washer hose, and thread on the garden hose with the shut-off valve attached. Test for leaks.
+* **Stage the equipment:** Plug in the rented 1/2" heavy-duty corded mixing drill. Stack all 10 bags of TEC EZ Level 323 next to your 7-gallon mixing bucket and slice open the first 3 bags.
+* **Measure water:** Use the 10-quart mixing bucket to measure exactly **5.0 to 5.25 quarts (160–168 oz)** of cold water into the 7-gallon bucket. *Always put water in first.*
 
-### 4. The Continuous Pour Rotation (3-Person Team)
+### 4. The Continuous Pour & Wet-Edge Strategy (3-Person Team)
 
 **Role Division:**
-* **Person 1 (Water & Powder Loader):** Measures exact water into the bucket and slowly pours the 50 lb bag into the water while Person 2 mixes.
-* **Person 2 (Drill Operator):** Operates the heavy-duty corded mixing drill on low speed with both hands, mixing for 2 to 3 minutes until completely lump-free.
-* **Person 3 (Pourer & Finisher):** Manages floor placement and squeegee work.
+* **Person 1 (Water & Powder Loader):** Measures water accurately per bag and slowly feeds powder into the spinning vortex.
+* **Person 2 (Drill Operator):** Runs the heavy-duty corded drill on low/medium speed, keeping the paddle submerged near the bottom to mix for exactly 2 minutes without splashing.
+* **Person 3 (Pourer & Squeegee Master):** Controls the wet edge, manages placement, and uses the 3/16" notched squeegee.
 
-**Center-Door Pour Strategy:**
-1. **Start Far Left Wing:** Person 3 takes the first 2–3 buckets to the far left corner away from the door, placing ribbons of material and gauging with the 3/16" notched squeegee.
-2. **Move to Far Right Wing:** Pour the next 2–3 buckets in the far right corner, spreading back toward the center.
-3. **Bridge the Center Back Wall:** Pour along the back wall center, merging the left and right sides into a continuous wet edge.
-4. **Funnel Back to Door Threshold:** Work backward down the middle of the room toward the open doorway, making the final pour at the threshold.
+**The Pour Sequence (Center Door Configuration):**
+1. **Mix Batch 1:** Person 1 adds water, Person 2 starts the drill, Person 1 pours the full 50 lb bag slowly over 15 seconds. Mix for 2 full minutes.
+2. **Hit the Farthest Back Corners:** Since the door is centered on the wall, carry the first bucket immediately to the **far-left or far-right back corner** of the room. Pour a ribbon of material.
+3. **Establish a Wet Edge:** Have Person 3 pull the material gently with the notched squeegee, guiding it across the back wall toward the center. *Self-leveler seeks its own level; do not over-trowel it.*
+4. **Mix Back-to-Back:** While Person 3 spreads Batch 1, Person 1 and 2 immediately dump and mix Batch 2 in the 7-gallon bucket. 
+5. **Fill Both Back Wings:** Use Batch 2 to cover the opposite back corner and bridge the back wall, ensuring a continuous wet edge across the entire rear of the room.
+6. **Work Forward to the Center Door:** Systematically pour successive batches moving outward from the back walls, working symmetrically toward the middle of the room and finishing right at the center doorway threshold.
 
 ### 5. Immediate Cleanup and Curing
-* **Wash tools immediately:** The instant the 10th bucket is poured, flush the mixing paddle, squeegee, and buckets with the hose before the cement sets.
-* **Lock the room down:** Keep doors closed. Do not run heavy fans or space heaters directly over the uncured pour to prevent surface cracking.
-* **Wait 24 hours:** Allow the floor to cure undisturbed overnight.
+* **Wash tools instantly:** The second the final batch is poured, take the mixing paddle, buckets, and squeegee to the hose and rinse them thoroughly before the cement flashes and hardens.
+* **Lock the room down:** Close the doors. Avoid running direct fans or space heaters over the fresh pour, which causes rapid, uneven surface cracking.
+* **Wait 24 hours:** Let the floor cure completely undisturbed overnight.
 
 ### 6. Post-Cure Prep for LVP
-* **Remove the Dam:** After 24 hours, take your utility knife, lay the blade flush against your new cement floor, and slice straight down to cut the spray foam away. This leaves a clean 1-inch gap for your drain.
-* **Trim Wall Foam:** Use the utility knife to slice off the excess perimeter sill sealer flush with the top of the new floor.
+* **Remove the temporary dam:** After 24 hours, take your utility knife, lay the blade flat against the new floor, and slice straight down to cut away the Great Stuff foam dam, revealing your clean 1-inch drainage channel. Pull off the protective duct tape from the drain opening.
+* **Trim wall foam:** Slice off excess perimeter sill sealer flush with the top of the new floor.
 * **Check levelness:** Lay your 5-foot spirit level across the floor to verify flatness.
-* **Sweep and install:** Vacuum any loose debris before laying down the vapor barrier and LVP.
+* **Vacuum and install:** Vacuum all fine dust before laying down the vapor barrier and LVP.
 
 ---
 
