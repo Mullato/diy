@@ -1,7 +1,7 @@
 # Ceiling Tile Replacement
 
 ### Supplies to Buy
-* **x[Based on Sq Ft]**: [Armstrong Ceilings 12-in x 12-in Washable White Interlocking Ceiling Tiles](https://www.menards.com/main/paint/ceilings/ceiling-tiles/armstrong-reg-ceilings-baltic-trade-12-x-12-white-textured-beveled-tongue-groove-ceiling-tile/1132g/p-1642874366088989-c-13612.htm)
+* **x10**: [Armstrong Ceilings 12-in x 12-in Washable White Interlocking Ceiling Tiles](https://www.menards.com/main/paint/ceilings/ceiling-tiles/armstrong-reg-ceilings-baltic-trade-12-x-12-white-textured-beveled-tongue-groove-ceiling-tile/1132g/p-1642874366088989-c-13612.htm)
 * **x3**: [Arrow 1/2-in Leg x 3/8-in Crown Galvanized Steel Staples (1250-Pack)](https://www.menards.com/main/tools/hand-tools/staplers-staples-rivet-tools/surebonder-reg-t50-reg-3-8-crown-x-1-2-leg-galvanized-heavy-duty-staples-1-250-count/55012/p-1444430631659-c-9164.htm)
 * **x1**: [Arrow T50 Heavy Duty Manual Staple Gun](https://www.menards.com/main/tools/hand-tools/staplers-staples-rivet-tools/arrow-trade-t50-heavy-duty-staple-gun/t50-4/p-1444424352421-c-9164.htm)
 * **x1**: [DeWalt 100-Pack Heavy Duty Utility Knife Blades](https://www.menards.com/main/tools/hand-tools/utility-knives/masterforce-reg-utility-knife-blades-100-pack/mf-35076/p-1642874354719616-c-1484756386273.htm)
