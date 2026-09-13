@@ -1,3 +1,9 @@
+Electrical Ask:
+I'd like the estimate split into two separate line items:
+​Option A: Disconnecting, isolating, and safely boxing off the existing ungrounded upstairs circuit in the ceiling so it only feeds upstairs.
+​Option B: Running a brand-new grounded 20A circuit from the main panel through the exposed ceiling to power the basement living room.
+​Please quote them separately so I can decide whether to execute both or handle one phase first."
+
 # Ceiling Tile Replacement
 
 ### Supplies to Buy
