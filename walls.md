@@ -5,35 +5,35 @@
 ### Lumber
 | Item | Quantity | Notes |
 |---|---|---|
-| Pressure-treated 2x4x8 | 12 | Bottom plates |
-| Pressure-treated 2x4x12 | 4 | Bottom plates, long wall splices |
-| Standard 2x4x8 (studs) | 60 | Studs, top plates, blocking |
-| Standard 2x4x12 | 6 | Top plates, long wall splices |
+| Pressure-treated 2x4x8 | 4 | Bottom plates |
+| Pressure-treated 2x4x12 | 4 | Bottom plates, long wall |
+| Standard 2x4x8 (studs) | 60 | Pre-cut studs, cut to fit |
+| Standard 2x4x12 | 6 | Top plates, long wall |
 | Standard 2x4x16 | 4 | Top plates, long wall |
 
 ### Insulation & Moisture
 | Item | Quantity | Notes |
 |---|---|---|
-| 2" XPS rigid foam board, 4x8 sheets | 13 | R-10 continuous insulation |
-| Foam board adhesive (PL 300 or similar) | 6 tubes | For foam to concrete |
-| Tuck Tape or foil tape | 2 rolls | Seal foam seams |
-| Foam sill gasket, 3.5" x 50' roll | 2 rolls | Under bottom plates |
-| Expanding foam sealant (Great Stuff) | 4 cans | Gaps, rim joist, penetrations |
-| Fire-rated expanding foam | 2 cans | Top plate firestopping |
+| 1.65" Polyiso rigid foam board, 4x8 sheets (R-10) | 13 | Continuous insulation |
+| Foam board adhesive (PL 300 or similar) | 8 tubes | For foam to concrete |
+| Aluminum foil tape, 2" x 150' | 2 rolls | Seal foam seams |
+| Foam sill sealer, 3.5" x 50' roll | 2 rolls | Under bottom plates |
+| Expanding foam sealant (Gaps & Cracks) | 4 cans | Gaps, rim joist, penetrations |
+| Fire-rated expanding foam (Fireblock) | 2 cans | Top plate firestopping |
 
 ### Fasteners
 | Item | Quantity | Notes |
 |---|---|---|
-| 3" construction screws (Star or Phillips) | 5 lb box | Framing connections |
-| 1/4" x 2-3/4" Tapcon screws | 50 pack | Bottom plate to floor |
-| 1/4" masonry drill bits | 2 | For Tapcon pilot holes |
-| Nail guard plates | 10 | Future electrical protection |
+| 3-1/8" construction screws, 5 lb box | 1 | Framing connections |
+| 1/4" x 2-3/4" Tapcon screws, 75 pack | 1 | Bottom plate to floor |
+| 1/4" x 6" masonry hammer drill bits | 2 | For Tapcon pilot holes |
+| Nail guard plates | 10 | Future electrical protection (can defer) |
 
 ### Openings & Access
 | Item | Quantity | Notes |
 |---|---|---|
-| 12" x 12" access panel | 1 | Water main bump-out |
-| Composite shims | 1 pack | Floor unevenness |
+| 12" x 12" access panel | 1 | Water main bump-out (can defer) |
+| Composite shims, 12 pack | 1 | Floor unevenness |
 
 ### Tools
 
@@ -46,7 +46,7 @@
 | **Concrete Grinding Dust Shroud** | [Hercules 7 in. Surface Grinding Dust Shroud](https://www.harborfreight.com/7-in-surface-grinding-dust-shroud-58919.html) | For floor prep. Attaches to the angle grinder below. |
 | **Angle Grinder** | [Bauer 15 Amp, 7 in. Trigger-Grip Angle Grinder](https://www.harborfreight.com/15-amp-7-in-trigger-grip-angle-grinder-with-180-rotating-body-57003.html) | For concrete grinding now. Can be used with sanding discs for hardwood floors later. |
 | **Plumb Bob** | [Pittsburgh Plumb Bob with 15 ft. Line](https://www.harborfreight.com/plumb-bob-with-15-ft-line-57173.html) | For transferring floor layout to the ceiling. |
-| **Chalk for Chalk Line** | Red chalk (any brand) | You have a chalk line but need chalk. Available at Harbor Freight or any hardware store. |
+| **Chalk for Chalk Line** | Red chalk (any brand) | You have a chalk line but need chalk. |
 | **Corded Drill (OPTIONAL)** | [BAUER 6.3 Amp, 1/2 in. Variable-Speed Drill](https://www.harborfreight.com/63-amp-12-in-variable-speed-drill-59519.html) | **Only buy if your cordless batteries die and you feel pressed for time.** Confirmed good for drywall with a dimpler bit. |
 
 **Already Own (no need to buy):**
@@ -105,17 +105,17 @@ Follow these steps in order.
 
 ### STEP 2: Rigid Foam Insulation
 
-1. Cut 2" XPS foam to height and glue directly to the concrete wall with foam board adhesive.
-2. Tape all seams tightly with Tuck Tape.
+1. Cut 1.65" Polyiso foam to height and glue directly to the concrete wall with foam board adhesive.
+2. Tape all seams tightly with foil tape.
 3. Spray expanding foam where the concrete wall meets the floor joists above (rim joist).
-4. **Indiana code:** Basement walls require **R-10 continuous insulation** or **R-13 cavity insulation**. 2" XPS is R-10 and meets the continuous requirement. Source: 2020 Indiana Residential Code, Table R402.1.2.
+4. **Indiana code:** Basement walls require **R-10 continuous insulation** or **R-13 cavity insulation**. The 1.65" Polyiso is R-10 and meets the continuous requirement. Source: 2020 Indiana Residential Code, Table R402.1.2.
 
 ### STEP 3: Layout and Snap Lines
 
 **Snap floor chalk lines.**
 
-1. **Wall offset:** 2" foam + 3.5" stud + 0.5" drywall = **6" from concrete to finished drywall face**. The back of the bottom plate sits against the foam.
-2. **Long wall line:** Measure out 6" from the concrete at each end of the long wall. Snap a chalk line between those points. Do not follow the concrete if it is out of square. The framed wall should be straight.
+1. **Wall offset:** 1.65" foam + 3.5" stud + 0.5" drywall = **5.65" from concrete to finished drywall face**. The back of the bottom plate sits against the foam.
+2. **Long wall line:** Measure out 5.65" from the concrete at each end of the long wall. Snap a chalk line between those points. Do not follow the concrete if it is out of square. The framed wall should be straight.
 3. **Short wall lines:** The short walls must be perpendicular to the long wall. Use a 3-4-5 triangle at each corner:
    - From the corner where the long wall line meets the first short wall line, measure 3 feet along the long wall line.
    - Measure 4 feet along the short wall line.
@@ -143,6 +143,8 @@ Follow these steps in order.
 
 **The long wall will need multiple pieces.** A 340" wall is 28' 4". Pressure-treated 2x4s come in 8', 12', and 16' lengths. You will need to splice.
 
+**Total bottom plate needed:** ~49' 4" plus waste. Your cart has 4 × 12' (48 LF) and 4 × 8' (32 LF) = 80 LF, which gives you extra for mistakes and splices.
+
 **How to splice bottom plates:**
 1. Cut the first piece to length, ending at a stud location.
 2. Cut the second piece to continue from that point.
@@ -153,7 +155,7 @@ Follow these steps in order.
 7. If you cut pressure-treated wood, brush end-cut preservative on the cut ends if your local code requires it.
 
 **Install the bottom plates:**
-1. Attach sill gasket to the bottom of all pressure-treated plates.
+1. Attach sill sealer to the bottom of all pressure-treated plates.
 2. Place the plate along the chalk line.
 3. **Check level:** Place your 5ft spirit level on top of the bottom plate. Check at several points along the wall.
    - Acceptable level: within **1/8" over 8 feet**. If it is worse than that, shim under the plate.
@@ -189,7 +191,7 @@ The pipe runs along the top of the long wall, just below the joists. It is not s
 Do this immediately after the top plates are secured and before you install the studs. You need clear access to the top of the wall.
 
 1. **Gaps between top plate and joists:** Seal with fire-rated expanding foam or 5/8" drywall strips. Fill every gap where the top plate meets the joists.
-2. **Cavity behind the top plate on the long wall:** Because the wall is offset 6" from the concrete, there is a horizontal cavity between the back of the top plate and the concrete wall, right at ceiling level.
+2. **Cavity behind the top plate on the long wall:** Because the wall is offset 5.65" from the concrete, there is a horizontal cavity between the back of the top plate and the concrete wall, right at ceiling level.
    - If the gap is small (less than 2"), fill it with fire-rated expanding foam.
    - If the gap is large, cut mineral wool or rigid foam to friction-fit into the cavity. Then seal the face with fire-rated caulk.
    - Alternatively, install a continuous strip of 5/8" drywall as a fire block, fastened to the top plate and the concrete wall.
@@ -268,13 +270,13 @@ Based on one 340" long wall and two 126" short walls. Budget 15–20% extra.
 | Item | Calculation | Rough Quantity |
 |---|---|---|
 | Total wall length | 340 + 126 + 126 = 592" | 49' 4" |
-| PT bottom plate | 592" + 20% waste | ~60 LF |
+| PT bottom plate | 592" + waste | ~55–60 LF |
 | Double top plate | 592" x 2 + 20% waste | ~120 LF |
 | Studs @ 16" O.C. | Long: 23; Shorts: 9 each | 41 studs |
 | Extra studs | Corners, window, bump-out, blocking | +25–30 studs |
-| Rigid foam | 49.33 ft x 7.5 ft + 10% | ~407 sq ft |
-| 4x8 foam sheets | 407 / 32 | ~13 sheets |
-| Sill gasket | 592" + waste | ~55 LF |
+| Rigid foam | 49.33 ft x 8 ft + 10% | ~435 sq ft |
+| 4x8 foam sheets | 435 / 32 | ~13 sheets |
+| Sill sealer | 592" + waste | ~55 LF |
 | Tapcons | Every 24" | 30–40 |
 | Access panel | 12" x 12" | 1 |
 | Bump-out framing | Extra 2x4s | ~6 studs |
@@ -290,7 +292,9 @@ Based on one 340" long wall and two 126" short walls. Budget 15–20% extra.
 - Access panel rough opening requirements (check panel packaging)
 
 **Confirmed:**
-- Indiana basement wall insulation: **R-10 continuous** or **R-13 cavity**. 2" XPS (R-10) meets the continuous requirement. Source: 2020 Indiana Residential Code.
+- Indiana basement wall insulation: **R-10 continuous** or **R-13 cavity**. 1.65" Polyiso (R-10) meets the continuous requirement. Source: 2020 Indiana Residential Code.
+- Wall offset: **5.65"** from concrete to finished drywall face (1.65" foam + 3.5" stud + 0.5" drywall).
+- Pressure-treated lumber: **4 × 2x4x8** and **4 × 2x4x12** = 80 LF, enough for all bottom plates with waste.
 - Room is not a bedroom. No egress window requirement.
 - Only one long exterior wall will be framed.
 - Water main bump-out: approximately 12" x 12" x full height, with 12" x 12" access panel. Bottom plate anchored to concrete.
@@ -300,6 +304,4 @@ Based on one 340" long wall and two 126" short walls. Budget 15–20% extra.
 - Firestopping is done immediately after top plates are installed, before studs.
 - 5ft spirit level is sufficient; no laser level needed.
 - Corded drill/impact driver is optional, only if batteries die.
-- The BAUER 6.3 Amp drill (Item 59519) is confirmed good for drywall with a dimpler bit.
-- Chalk line: you believe you have one, but not 100% certain. Buy chalk.
-- Speed square: already owned.
+- Access panel and nail guards can be purchased later.
