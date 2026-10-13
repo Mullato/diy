@@ -199,3 +199,78 @@
 - **Measure final row:** Overlay a full plank on the second-to-last row. Use a scrap piece pushed against the wall to trace the wall contour onto the plank.
 - **Rip & pull tight:** Cut along the marked line with a jigsaw or utility knife. Position the plank and use the pull bar with a dead-blow hammer to seat the final joint.
 - **Install reducer:** Fasten the Framerica Surface Reducer mounting track to the concrete threshold, snapping the reducer cap into place over the expansion gap.
+
+# Subfloor Mapping Guide
+
+**Objective:** Map out the high and low spots on the floor using a simple grid and gravity test so we can jump straight to fixing it this weekend. 
+
+---
+
+## Tools Needed
+* 1 Roll of Painter’s Tape (or chalk)
+* 1 Sharpie or dark marker
+* 1 Small round object (marble, golf ball, or ping pong ball)
+* 1 Long straight board, metal stud, or 6ft/8ft level
+* A stack of index cards or playing cards
+
+---
+
+## Step 1: Lay Out the Grid (10–15 Mins)
+
+1. Walk the room and use painter's tape or chalk to mark out a grid across the entire floor in roughly **3-foot by 3-foot squares**.
+2. Label the rows along one wall with **letters** (A, B, C...) and columns along the adjacent wall with **numbers** (1, 2, 3...).
+3. Every square now has a coordinate (for example: **A1, B3, C2**).
+
+```text
+   1      2      3
++------+------+------+
+A|  A1 |  A2 |  A3 |
++------+------+------+
+B|  B1 |  B2 |  B3 |
++------+------+------+
+```
+
+---
+
+## Step 2: The Ball Test (Gravity Check)
+
+1. Set the ball gently in the center of square **A1** and let go.
+2. Watch where it rolls:
+   * **If it rolls:** Draw an arrow on the floor pointing in the direction the ball rolled.
+   * **If it stays completely still:** Put a small checkmark in that square.
+3. Repeat this for every single square on the grid.
+
+### How to Read the Arrows:
+* **Low Spots (Dips):** Look for areas where multiple arrows point toward each other. Draw a big circle around that area and label it **"FILL"**.
+* **High Spots (Humps):** Look for areas where arrows point *away* from a central point. Put a big **"X"** on that central spot and label it **"HIGH"**.
+
+---
+
+## Step 3: The Straightedge Test (Precision Check)
+
+Lay your long straightedge flat across the floor along the grid lines (check both north-south and east-west across the room).
+
+### 1. Checking for High Ridges (Seesaw Test)
+* Lay the straightedge down. If it teeters back and forth like a seesaw, the point in the middle holding it up is a high ridge.
+* Trace along that ridge on the floor with your marker and label it **"GRIND"**.
+
+### 2. Checking for Low Valleys (Gap Test)
+* Lay the straightedge down. If both ends rest flat on the floor, look underneath the middle section.
+* If you see light or a gap under the straightedge, try to slide a playing card/index card underneath it:
+  * **If 2 or 3 cards slide under easily:** Shade that area in with chalk/tape and write **"FILL"**.
+
+---
+
+## Quick Summary Markings
+
+By the time you're done, the floor should have clear symbols marked directly on it:
+
+| Symbol | What It Means | Action We Will Take |
+| :--- | :--- | :--- |
+| **"GRIND" or "X"** | High spot / Ridge | We will grind this down flat. |
+| **"FILL" or Circle** | Low spot / Dip | We will fill this in with patch compound. |
+| **Arrow ($\rightarrow$)** | Downward slope | Shows us which direction the floor pitches. |
+
+---
+
+> **Note:** Don't worry about trying to fix or sand anything yourself! Just getting these markings onto the floor saves a huge amount of setup time for the weekend. Thank you!
