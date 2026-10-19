@@ -1,108 +1,111 @@
-# Rim Joist Installation Plan
+# Master Rim Joist Installation Plan
 
-Focused only on rim joist installation. Laser stays on; no chalk line at laser height. Story pole reads **`S` directly** when its base sits at top-of-2x4 height. Shims are dry-stacked and compressed by fasteners; no adhesive required.
+**Scope:** Rim joist installation for a 350 sq ft sleeper subfloor over concrete slab (floor dips up to 4").  
+**Setup:** Continuous laser level remains on; no chalk line at laser height. Story pole reads **`S` directly** when its base sits at top-of-2x4 height.
 
 ---
 
-## 1. Purchase (rim joist only)
+## 1. Material & Tool Checklist
 
+### On-Hand Stock
+* **6 × 2x4x8 PT Green Wood** (Base plates & blocks)
+* **24 × 2x4x12 PT Green Wood** (Rim joists & field sleepers)
+* **6× Composite Shim Packs** (Final fine adjustment $\le 1/8"$)
+
+### Purchase List
 | Item | Qty | Purpose |
 |---|---:|---|
-| 1x4x8 furring strips | 6–8 | Shim stock for rim joist base plates |
-| PT 2x4x8 | 2 | Rim joist base plates |
-| PT 2x4x8 | 2 | Rim joist completion |
-| PT 2x4x8 (optional) | 1 | Spare |
+| **3/4" Exterior Plywood (CDX)** | 1 sheet | Major stack building strips ($3.5" \times 6" \text{ to } 8"$) |
+| **1/2" Exterior Plywood (CDX)** | 1 sheet | Medium stack building strips ($3.5" \times 6" \text{ to } 8"$) |
+| **Foam Sill Sealer Gasket** | 1–2 rolls | Capillary break **underneath** base plates & direct-contact shims |
+| **3/16" × 2-3/4" or 3-1/4" Flat-Head Tapcons** | 1–2 boxes | Independent concrete anchoring for PT base plates & low points |
+| **3" to 3-1/2" Construction Screws** | 1 box | Securing rim joist down into anchored PT base plates |
+| **Heavy-Duty Subfloor Adhesive** (PL Premium) | 1–2 tubes | Bonding shim layers to eliminate squeaks and movement |
 
-Pick straight furring; cull warped/split/knotty. Non-PT furring is OK **above** a PT base plate. Never use bare non-PT furring directly on poly/concrete.
-
-On hand: 4 × 8' + 4 × 12' PT (rim joist), Tapcons, 2.5"–3" construction screws, composite shims.
-
----
-
-## 2. Key Terms and Cut Lists
-
-**Base plate** = cut length of PT 2x4 laid flat (1.5" thick × 3.5" wide). "5-inch" and "7-inch" refer only to length. Use 7" where `S ≥ 2.5"`; 5" where `S = 1.5"–2.5"`.
-
-**`S`** = total shim height from concrete to bottom of rim joist (story-pole reading). **`R`** = remaining height above an installed base plate: `R = S − 1.5"`.
-
-### Rim joist base plates (from 2 new PT 2x4x8)
-Rim joist perimeter ≈ 82 ft; support at **24" OC** ≈ 38 points. Assume ~28 need base plates (high-side points sit on concrete). Average 6":
-
-- 28 × 6" = 168" = 14 ft → fits in 2 × 8' = 16 ft with kerf.
-- Use 7" where `S ≥ 2.5"`, 5" otherwise.
-
-### Rim joist completion (from 2 new PT 2x4x8)
-Owned 80 ft vs ~82 ft perimeter + ~13 ft furnace curb ≈ 95 ft needed. 2 × 8' = 16 ft covers the shortfall.
-
-### Shim stock (from 6–8 × 1x4x8)
-1x4 is ~3/4" × 3.5". Pre-cut:
-- 50 × 6"
-- 16 × 8"
-- Rip some to 1/2" and 1/4" for fine adjustment
-
-Rip method only: **https://www.youtube.com/watch?v=KJ1ayh69VKk**
-
-Composite shims: final 1/8" only.
+*Transport Note:* Have the home improvement center rip the 4x8 plywood sheets into 2' x 4' panels so they fit easily in a sedan trunk.
 
 ---
 
-## 3. Shim Stack Construction (rim joist)
+## 2. Terminology & Formulas
 
-### Orientation
-- Lay strips **flat** — 3.5" wide face horizontal, matching rim joist width.
-- Shim **length runs along the rim joist**.
-- **Centered** under the rim joist, not offset to one edge.
-- Never stand shims on edge. Never use a tapered wedge as the main bearing surface.
-
-### Contact and length
-- **Full 3.5" width bearing** on the layer below and above. No rocking, no hollow spots.
-- **6" minimum length** (standard), **8" minimum** for stacks ≥ 2.5" total.
-- Stack must sit fully on the base plate. A 6" shim on a 5" plate may overhang 1/2" per end only if it bears fully beneath the rim joist.
-- Layers aligned flush edge-to-edge.
-
-### Building (dry-stacked)
-1. Read `R` (on a base plate) or `S` (no base plate) from the story pole.
-2. Choose thickest-to-thinnest: e.g. `R = 1.0"` → 3/4" + 1/4"; `R = 1.5"` → 3/4" + 3/4"; `R = 2.0"` → 3/4" + 3/4" + 1/2".
-3. Place thickest layer first; press; confirm no rocking.
-4. Add layers; press. Finish with composite shims ≤ 1/8" if needed.
-5. **Check:** story pole on completed stack reads **0** (top of stack = bottom of rim joist plane).
-6. Fasteners compress the stack; no adhesive.
-
-**Where `S < 1.5"` (no base plate):** use only **PT or composite** shims directly on poly. Mechanically fasten through rim joist and shims into concrete with a Tapcon.
+* **`S` (Story Pole Reading):** Total height from concrete/poly surface to the target bottom-of-rim-joist plane.
+* **PT Base Plate:** A 1.5" thick × 3.5" wide PT 2x4 block anchored flat to concrete.
+  * Use **7" length** where $S \ge 2.5"$.
+  * Use **5" length** where $S = 1.5" \text{ to } 2.5"$.
+* **`R` (Remaining Height Above Base Plate):** $R = S - 1.5"$.
 
 ---
 
-## 4. Layout — Square First
+## 3. Preparation & Pre-Cutting
 
-1. Laser stays on. No chalk line at laser height.
-2. Start at the high corner near **C19/R1–R2**.
-3. Mark **2" in from each wall** (pipe offset) at that corner.
-4. Snap **one rim joist line** along the first wall, 2" from it.
-5. Establish the perpendicular line with a **3-4-5 triangle** or framing square. Snap it 2" from the adjacent wall.
-6. **Do not snap the rest of the perimeter.** Install these two perpendicular rim joist runs first; they are the square reference.
-7. Run the remaining two rim joist walls off the first two — check **diagonals equal** before fastening.
+### Plywood Shim Stock
+Rip the 2' x 4' plywood panels into **3.5" wide strips**, then cross-cut into **6" to 8" lengths**:
+* **3/4" Plywood Shims:** ~30–40 pieces ($3.5" \times 6" \text{ to } 8"$)
+* **1/2" Plywood Shims:** ~20–30 pieces ($3.5" \times 6" \text{ to } 8"$)
 
----
-
-## 5. Rim Joist Installation Steps
-
-1. Cut rim joist sections from owned PT + 2 new PT 2x4x8.
-2. Lay the first two perpendicular runs on the poly along their lines (2" from walls).
-3. At **24" OC** plus ends and butt joints: place the story pole **on top of the rim joist** (base at top-of-2x4 height). Reading = **`S`**. Mark `S` on the poly beside each point.
-4. Lift the section aside.
-5. Where `S ≥ 1.5"`: install an anchored base plate, **countersink anchor flush**, record `R = S − 1.5"`. Where `S < 1.5"`: no plate; PT/composite shims directly on poly.
-6. Build stacks (Section 3). Lower rim joist. Check with level/laser — **1/4" over 10 ft** tolerance.
-7. Fasten: Tapcon through rim joist + short stack into concrete, **or** 2.5"–3" construction screw through rim joist + stack into base plate, offset from the masonry anchor.
-8. Staple foam sill sealer where rim joist bears on concrete or base plate.
-9. Repeat around perimeter. Check diagonals before final fastening.
-
-**Furnace curb:** build PT box around 3.25" slab; shim level the same way.
+### PT Base Plates
+Cut from 1 × 2x4x8 PT board:
+* **7" PT Blocks:** 16 pieces
+* **5" PT Blocks:** 14 pieces
 
 ---
 
-## 6. Two-Person Workflow
+## 4. Phase 1: Layout & Square Baseline
 
-- **Person A:** laser, story pole, marks `S`/`R`, checks level.
-- **Person B:** cuts base plates, drills/anchors, rips/cuts shims, builds stacks.
-- Work in **8–10 ft sections**: A marks next section while B sets plates/stacks; A follows to set and screw.
-- One person owns the story pole to keep readings consistent. Check diagonals before final fastening.
+1. Start at the high corner near **C19/R1–R2**.
+2. Mark **2" off each wall** (pipe offset) at that corner.
+3. Snap **one rim joist line** along Wall 1 (2" off the wall).
+4. Establish the perpendicular line along Wall 2 using a **3-4-5 right triangle**. Snap it 2" off Wall 2.
+5. **Do not snap remaining perimeter lines yet.** Complete Wall 1 and Wall 2 first to lock in the square baseline.
+
+---
+
+## 5. Phase 2: Execution & Workflow
+
+### Step 1: Lay, Mark & Measure
+1. Dry-fit a 12' PT 2x4 rim joist along the snapped baseline.
+2. Mark **24" OC increments** (plus ends and butt joints) with a sharpie directly on top of the 2x4.
+3. Person A sets story pole on top of each sharpie mark. Read **`S`** from laser.
+4. Person B writes **`S`** (e.g., `S = 2.75"`) directly on the poly/wall next to each mark.
+5. Set the 12' rim joist board aside.
+
+### Step 2: Concrete Drilling & Base Plate Anchoring
+Go down the line to each point where **$S \ge 1.5"$**:
+1. Cut a piece of foam sill sealer and place directly on poly/concrete.
+2. Place PT base plate (7" if $S \ge 2.5"$; 5" if $S = 1.5"–2.5"$) over sill sealer.
+3. **Drill:** Drill with 3/16" masonry bit through 2x4 and concrete to depth = Tapcon length + 1/2" (mark bit with tape).
+4. **Countersink:** Use 1/2" wood bit to countersink top 1/4" of 2x4 so Tapcon head sits flush/below surface.
+5. **Clean Hole:** Vacuum or blow concrete dust out of hole (*critical to prevent binding*).
+6. Drive **2-3/4" or 3-1/4" Tapcon** until base plate is locked solid. Stop immediately once seated flush.
+7. Write **`R = S - 1.5"`** directly on top of the anchored base plate.
+
+### Step 3: Build Glued Shim Stacks
+* **Where $S \ge 1.5"$ (On Base Plate):**
+  1. Apply a 1/4" S-bead of construction adhesive on top of base plate and between each plywood shim.
+  2. Stack 3/4" and 1/2" plywood shims flat according to `R`.
+  3. Top off with nested composite shims for final fraction adjustments ($\le 1/8"$) until story pole placed on top reads **0**.
+* **Where $S < 1.5"$ (No Base Plate):**
+  1. Place sill sealer directly on poly/concrete.
+  2. Stack 1/2" or 1/4" plywood shims / composite shims directly on sill sealer until story pole reads **0**. *(No adhesive on foam).*
+
+### Step 4: Drop Rim Joist & Fasten
+1. Lower the 12' PT rim joist back onto the leveled shim stacks.
+2. **Fasten:**
+   * **On Base Plates:** Drive two **3" to 3-1/2" construction screws** through rim joist and shims into the anchored base plate. The clamping force will squeeze the adhesive for a solid bond.
+   * **Where $S < 1.5"$:** Drill through rim joist + shims + concrete, countersink, clean hole, and drive a **2-3/4" or 3-1/4" Tapcon**.
+
+---
+
+## 6. Structural Rules & Tolerances
+
+* **Shim Orientation:** All plates and plywood shims must lay **flat** (3.5" wide face horizontal), running parallel with the rim joist. Centered under the rim joist. No standing on edge; no tapered wood wedges as primary bearing surfaces.
+* **Sill Sealer Location:** Strictly **underneath** base plates and ground-contact shims. Never between wood-to-wood structural connections.
+* **Adhesive Rules:** Apply between base plate, plywood shims, and rim joist. Never apply between concrete/foam and wood.
+* **Tolerance:** Re-verify level across sections (**1/4" over 10 ft** maximum tolerance). Check diagonals on opposite walls before final perimeter lockdown.
+
+---
+
+## 7. Two-Person Role Division
+
+* **Person A:** Owns story pole, operates laser, records `S` and `R`, checks finished section level.
+* **Person B:** Cuts base plates/plywood, drills concrete/countersinks, cleans holes, sets Tapcons, stacks glued shims, drives construction screws.
